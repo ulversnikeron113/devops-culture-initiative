@@ -1,0 +1,1 @@
+这是中文版的README文件，内容与README.md相同。
